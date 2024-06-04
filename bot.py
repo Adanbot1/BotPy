@@ -13,7 +13,7 @@ driver.get('https://web.whatsapp.com/')
 input("Escanea el código QR y presiona Enter una vez autenticado en WhatsApp...")
 
 
-contacto ="Mi Num"  
+contacto ="+51950519990"  
 
 mensaje = "Hola desde el Bot    "  # Mensaje a enviar
 
